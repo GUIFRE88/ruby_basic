@@ -1,8 +1,6 @@
 
 ---
-<h4 align="left">
-  🚀 RUBY
-</h4>
+## 🚀 RUBY
 <br>
 
 ## 💻 Linguagem Utilizada
